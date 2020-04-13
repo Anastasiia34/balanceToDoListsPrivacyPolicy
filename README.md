@@ -1,1 +1,1 @@
-# xbalanceToDoListsPrivacyPolicy
+# balanceToDoListsPrivacyPolicy
